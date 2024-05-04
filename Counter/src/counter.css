@@ -1,0 +1,21 @@
+.counter {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.count {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #72eda9;
+}
+
+/* Add your other CSS styles here */
